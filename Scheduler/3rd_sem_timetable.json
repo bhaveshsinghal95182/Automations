@@ -1,0 +1,292 @@
+{
+    "MONDAY": [
+      {
+        "periodNumber": 1,
+        "timing": "08:50-09:50",
+        "3CSEB1": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB2": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB3": "BMAT-003C DR. SONIA GOEL 117"
+      },
+      {
+        "periodNumber": 2,
+        "timing": "09:50-10:50",
+        "3CSEB1": "BHUM-118  ER. RAHUL GROVER 117",
+        "3CSEB2": "BHUM-118  ER. RAHUL GROVER 117",
+        "3CSEB3": "BHUM-118  ER. RAHUL GROVER 117"
+      },
+      {
+        "periodNumber": 3,
+        "timing": "10:50-11:50",
+        "3CSEB1": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB2": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB3": "BCSE-506 DR. VINISHA SUMRA 117"
+      },
+      {
+        "periodNumber": 4,
+        "timing": "11:50-12:45",
+        "3CSEB1": "LUNCH BREAK",
+        "3CSEB2": "LUNCH BREAK",
+        "3CSEB3": "LUNCH BREAK"
+      },
+      {
+        "periodNumber": 5,
+        "timing": "12:45-01:40",
+        "3CSEB1": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB2": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB3": "BCSE-502 DR. SONALI GOYAL 117"
+      },
+      {
+        "periodNumber": 6,
+        "timing": "01:40-02:35",
+        "3CSEB1": "BET-1 VERBAL/ SOFT SKILLS-KIRITI MEHTA 117",
+        "3CSEB2": "BET-1 VERBAL/ SOFT SKILLS-KIRITI MEHTA 117",
+        "3CSEB3": "BET-1 VERBAL/ SOFT SKILLS-KIRITI MEHTA 117"
+      },
+      {
+        "periodNumber": 7,
+        "timing": "02:35-03:30",
+        "3CSEB1": "BCSE-502L DR. SONALI GOYAL 144",
+        "3CSEB2": "BCSE-504L DR. MOHIT 143",
+        "3CSEB3": "BCSE-506L DR. VINISHA SUMRA 145"
+      },
+      {
+        "periodNumber": 8,
+        "timing": "03:30-04:20",
+        "3CSEB1": "BCSE-502L DR. SONALI GOYAL 144",
+        "3CSEB2": "BCSE-504L DR. MOHIT 143",
+        "3CSEB3": "BCSE-506L DR. VINISHA SUMRA 145"
+      }
+    ],
+    "TUESDAY": [
+      {
+        "periodNumber": 1,
+        "timing": "08:50-09:50",
+        "3CSEB1": "BCSE-504L DR. MUNISHWAR RAI 143",
+        "3CSEB2": "BCSE-502L DR. SONALI GOYAL 144",
+        "3CSEB3": "BMAT-003CL MR. VAISHALI MEHTA 160"
+      },
+      {
+        "periodNumber": 2,
+        "timing": "09:50-10:50",
+        "3CSEB1": "BCSE-504L DR. MUNISHWAR RAI 143",
+        "3CSEB2": "BCSE-502L DR. SONALI GOYAL 144",
+        "3CSEB3": "BMAT-003CL MR. VAISHALI MEHTA 160"
+      },
+      {
+        "periodNumber": 3,
+        "timing": "10:50-11:50",
+        "3CSEB1": "BCSE-503 DR. VINEETA 209",
+        "3CSEB2": "BCSE-503 DR. VINEETA 209",
+        "3CSEB3": "BCSE-503 DR. VINEETA 209"
+      },
+      {
+        "periodNumber": 4,
+        "timing": "11:50-12:45",
+        "3CSEB1": "LUNCH BREAK",
+        "3CSEB2": "LUNCH BREAK",
+        "3CSEB3": "LUNCH BREAK"
+      },
+      {
+        "periodNumber": 5,
+        "timing": "12:45-01:40",
+        "3CSEB1": "BET-1 QUANTITATIVE APTITUDE-SHUBHAM KAUSHIK 117",
+        "3CSEB2": "BET-1 QUANTITATIVE APTITUDE-SHUBHAM KAUSHIK 117",
+        "3CSEB3": "BET-1 QUANTITATIVE APTITUDE-SHUBHAM KAUSHIK 117"
+      },
+      {
+        "periodNumber": 6,
+        "timing": "01:40-02:35",
+        "3CSEB1": "BCSE-505 DR. BANDANA SHARMA 117",
+        "3CSEB2": "BCSE-505 DR. BANDANA SHARMA 117",
+        "3CSEB3": "BCSE-505 DR. BANDANA SHARMA 117"
+      },
+      {
+        "periodNumber": 7,
+        "timing": "02:35-03:30",
+        "3CSEB1": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB2": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB3": "BCSE-506 DR. VINISHA SUMRA 117"
+      },
+      {
+        "periodNumber": 8,
+        "timing": "03:30-04:20",
+        "3CSEB1": "BET-1 TECHNICAL-NAVJOT SINGH 117",
+        "3CSEB2": "BET-1 TECHNICAL-NAVJOT SINGH 117",
+        "3CSEB3": "BET-1 TECHNICAL-NAVJOT SINGH 117"
+      }
+    ],
+    "WEDNESDAY": [
+      {
+        "periodNumber": 1,
+        "timing": "08:50-09:50",
+        "3CSEB1": "BCSE-503 DR. VINEETA 117",
+        "3CSEB2": "BCSE-503 DR. VINEETA 117",
+        "3CSEB3": "BCSE-503 DR. VINEETA 117"
+      },
+      {
+        "periodNumber": 2,
+        "timing": "09:50-10:50",
+        "3CSEB1": "BHUM-118  ER. RAHUL GROVER 117",
+        "3CSEB2": "BHUM-118  ER. RAHUL GROVER 117",
+        "3CSEB3": "BHUM-118  ER. RAHUL GROVER 117"
+      },
+      {
+        "periodNumber": 3,
+        "timing": "10:50-11:50",
+        "3CSEB1": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB2": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB3": "BCSE-502 DR. SONALI GOYAL 117"
+      },
+      {
+        "periodNumber": 4,
+        "timing": "11:50-12:45",
+        "3CSEB1": "LUNCH BREAK",
+        "3CSEB2": "LUNCH BREAK",
+        "3CSEB3": "LUNCH BREAK"
+      },
+      {
+        "periodNumber": 5,
+        "timing": "12:45-01:40",
+        "3CSEB1": "BCSE-504 DR. MUNISHWAR RAI 117",
+        "3CSEB2": "BCSE-504 DR. MUNISHWAR RAI 117",
+        "3CSEB3": "BCSE-504 DR. MUNISHWAR RAI 117"
+      },
+      {
+        "periodNumber": 6,
+        "timing": "01:40-02:35",
+        "3CSEB1": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB2": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB3": "BMAT-003C DR. SONIA GOEL 117"
+      },
+      {
+        "periodNumber": 7,
+        "timing": "02:35-03:30",
+        "3CSEB1": "BMAT-003CL MR. VAISHALI MEHTA 142",
+        "3CSEB2": "BCSE-506L DR. VINISHA SUMRA 145",
+        "3CSEB3": "BCSE-504L DR. MOHIT 143"
+      },
+      {
+        "periodNumber": 8,
+        "timing": "03:30-04:20",
+        "3CSEB1": "BMAT-003CL MR. VAISHALI MEHTA 142",
+        "3CSEB2": "BCSE-506L DR. VINISHA SUMRA 145",
+        "3CSEB3": "BCSE-504L DR. MOHIT 143"
+      }
+    ],
+    "THURSDAY": [
+      {
+        "periodNumber": 1,
+        "timing": "08:50-09:50",
+        "3CSEB1": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB2": "BCSE-502 DR. SONALI GOYAL 117",
+        "3CSEB3": "BCSE-502 DR. SONALI GOYAL 117"
+      },
+      {
+        "periodNumber": 2,
+        "timing": "09:50-10:50",
+        "3CSEB1": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB2": "BCSE-506 DR. VINISHA SUMRA 117",
+        "3CSEB3": "BCSE-506 DR. VINISHA SUMRA 117"
+      },
+      {
+        "periodNumber": 3,
+        "timing": "10:50-11:50",
+        "3CSEB1": "BCSE-505 DR. BANDANA SHARMA 117",
+        "3CSEB2": "BCSE-505 DR. BANDANA SHARMA 117",
+        "3CSEB3": "BCSE-505 DR. BANDANA SHARMA 117"
+      },
+      {
+        "periodNumber": 4,
+        "timing": "11:50-12:45",
+        "3CSEB1": "LUNCH BREAK",
+        "3CSEB2": "LUNCH BREAK",
+        "3CSEB3": "LUNCH BREAK"
+      },
+      {
+        "periodNumber": 5,
+        "timing": "12:45-01:40",
+        "3CSEB1": "BET-1 TECHNICAL-NAVJOT SINGH 117",
+        "3CSEB2": "BET-1 TECHNICAL-NAVJOT SINGH 117",
+        "3CSEB3": "BET-1 TECHNICAL-NAVJOT SINGH 117"
+      },
+      {
+        "periodNumber": 6,
+        "timing": "01:40-02:35",
+        "3CSEB1": "BCSE-504 DR. MUNISHWAR RAI 117",
+        "3CSEB2": "BCSE-504 DR. MUNISHWAR RAI 117",
+        "3CSEB3": "BCSE-504 DR. MUNISHWAR RAI 117"
+      },
+      {
+        "periodNumber": 7,
+        "timing": "02:35-03:30",
+        "3CSEB1": "PR-1 MS. VINEETA 260",
+        "3CSEB2": "PR-1 MS. VINEETA 260",
+        "3CSEB3": "PR-1 MS. VINEETA 260"
+      },
+      {
+        "periodNumber": 8,
+        "timing": "03:30-04:20",
+        "3CSEB1": "PR-1 MS. VINEETA 260",
+        "3CSEB2": "PR-1 MS. VINEETA 260",
+        "3CSEB3": "PR-1 MS. VINEETA 260"
+      }
+    ],
+    "FRIDAY": [
+      {
+        "periodNumber": 1,
+        "timing": "08:50-09:50",
+        "3CSEB1": "BCSE-506L DR. VINISHA SUMRA 145",
+        "3CSEB2": "BMAT-003CL MR. VAISHALI MEHTA 142",
+        "3CSEB3": "BCSE-502L DR. SONALI GOYAL 144"
+      },
+      {
+        "periodNumber": 2,
+        "timing": "09:50-10:50",
+        "3CSEB1": "BCSE-506L DR. VINISHA SUMRA 145",
+        "3CSEB2": "BMAT-003CL MR. VAISHALI MEHTA 142",
+        "3CSEB3": "BCSE-502L DR. SONALI GOYAL 144"
+      },
+      {
+        "periodNumber": 3,
+        "timing": "10:50-11:50",
+        "3CSEB1": "BCSE-504 DR. MUNISHWAR RAI 167",
+        "3CSEB2": "BCSE-504 DR. MUNISHWAR RAI 167",
+        "3CSEB3": "BCSE-504 DR. MUNISHWAR RAI 167"
+      },
+      {
+        "periodNumber": 4,
+        "timing": "11:50-12:45",
+        "3CSEB1": "LUNCH BREAK",
+        "3CSEB2": "LUNCH BREAK",
+        "3CSEB3": "LUNCH BREAK"
+      },
+      {
+        "periodNumber": 5,
+        "timing": "12:45-01:40",
+        "3CSEB1": "BCSE-503 DR. VINEETA 117",
+        "3CSEB2": "BCSE-503 DR. VINEETA 117",
+        "3CSEB3": "BCSE-503 DR. VINEETA 117"
+      },
+      {
+        "periodNumber": 6,
+        "timing": "01:40-02:35",
+        "3CSEB1": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB2": "BMAT-003C DR. SONIA GOEL 117",
+        "3CSEB3": "BMAT-003C DR. SONIA GOEL 117"
+      },
+      {
+        "periodNumber": 7,
+        "timing": "02:35-03:30",
+        "3CSEB1": "BHUM-118 ER. RAHUL GROVER 117",
+        "3CSEB2": "BHUM-118 ER. RAHUL GROVER 117",
+        "3CSEB3": "BHUM-118 ER. RAHUL GROVER 117"
+      },
+      {
+        "periodNumber": 8,
+        "timing": "03:30-04:20",
+        "3CSEB1": "BET-1 LOGICAL REASONING- SHUBHAM",
+        "3CSEB2": "BET-1 LOGICAL REASONING- SHUBHAM",
+        "3CSEB3": "BET-1 LOGICAL REASONING- SHUBHAM"
+      }
+    ]
+}
