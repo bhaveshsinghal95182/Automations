@@ -1,1 +1,6 @@
 automations/
+.env
+test.py
+resume_template.pdf
+data.json
+dataFormat.json
